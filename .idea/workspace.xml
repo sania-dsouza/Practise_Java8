@@ -19,9 +19,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.BinaryGap">
+  <component name="RunManager" selected="Application.CountOddOneOut">
     <configuration name="BinaryGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.BinaryGap" />
+      <module name="PractiseJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountOddOneOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CountOddOneOut" />
       <module name="PractiseJava" />
       <extension name="coverage">
         <pattern>
@@ -46,9 +59,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.BinaryGap" />
+      <item itemvalue="Application.CountOddOneOut" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountOddOneOut" />
         <item itemvalue="Application.BinaryGap" />
       </list>
     </recent_temporary>
@@ -65,22 +80,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="249" key="GridCell.Tab.0.bottom" timestamp="1606245614819">
+    <state width="1358" height="249" key="GridCell.Tab.0.bottom" timestamp="1606246182079">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state width="1358" height="249" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1606245614819" />
-    <state width="1358" height="249" key="GridCell.Tab.0.center" timestamp="1606245614818">
+    <state width="1358" height="249" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1606246182079" />
+    <state width="1358" height="249" key="GridCell.Tab.0.center" timestamp="1606246182078">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state width="1358" height="249" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1606245614818" />
-    <state width="1358" height="249" key="GridCell.Tab.0.left" timestamp="1606245614817">
+    <state width="1358" height="249" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1606246182078" />
+    <state width="1358" height="249" key="GridCell.Tab.0.left" timestamp="1606246182078">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state width="1358" height="249" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1606245614817" />
-    <state width="1358" height="249" key="GridCell.Tab.0.right" timestamp="1606245614818">
+    <state width="1358" height="249" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1606246182078" />
+    <state width="1358" height="249" key="GridCell.Tab.0.right" timestamp="1606246182079">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state width="1358" height="249" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1606245614818" />
+    <state width="1358" height="249" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1606246182079" />
     <state x="505" y="247" width="670" height="676" key="search.everywhere.popup" timestamp="1606193250975">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
